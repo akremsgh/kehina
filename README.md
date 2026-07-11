@@ -41,7 +41,8 @@ flowchart LR
     Terraform --> EC2
     Ansible --> Prometheus
     Prometheus --> Model
-    Model --> Prometheus ```
+    Model --> Prometheus
+```
 
 ## 🧩 Component Breakdown
 
